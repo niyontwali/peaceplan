@@ -1,0 +1,48 @@
+{
+  "Index": {
+    "navbar": {
+      "home": "Home",
+      "what": "What is the PEACE Plan",
+      "trainingAndCoaching": "Training and Coaching",
+      "testimonials": "Testimonials",
+      "ourTeam": "Our Team"
+    },
+    "hero": {
+      "imageCaption": "Hero Image Caption",
+      "title": "Our Actions",
+      "action1": "Promote reconciliation",
+      "action2": "Equip Servant Leaders",
+      "action3": "Assist the poor ",
+      "action4": "Care for the Sick",
+      "action5": " Educate the next Generation",
+      "buttonText": "Learn more"
+    },
+    "about": {
+      "title": "Who is Alpha Elite?",
+      "description": "We empower men to live up to their potential in peace and joy. To create higher harmony",
+      "programTitle": "Alpha Elite Mentorship Program",
+      "programSubtitle": "6 months and 7 core elements",
+      "programDescription": "Our program is designed for men who want to develop, invest in themselves, and reach a higher standard of living"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions"
+    },
+    "contactUs": {
+      "title": "Contact Us",
+      "name": "Name",
+      "namePlaceholder": "Enter your name",
+      "telephone": "Telephone",
+      "telephonePlaceholder": "Enter your telephone",
+      "email": "Email",
+      "emailPlaceholder": "Enter your email",
+      "message": "Message",
+      "messagePlaceholder": "Enter your message",
+      "submit": "Submit"
+    },
+    "footer": {
+      "copyRightYear": "Copyright @{currentYear} The PEACE Plan Rwanda",
+      "careers": "Careers",
+      "contactUs": "Contact Us"
+    }
+  }
+}

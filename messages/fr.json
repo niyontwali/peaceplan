@@ -1,0 +1,90 @@
+{
+  "Index": {
+    "navbar": {
+      "home": "Accueil",
+      "about": "À propos",
+      "faqs": "FAQ",
+      "contactUs": "Contact"
+    },
+    "hero": {
+      "imageCaption": "Légende de l'image du héros",
+      "title": "Soyez confiant et vivez en paix et en joie",
+      "listItem1": "Équilibrez votre vie - santé, travail, famille et amis",
+      "listItem2": "Profitez de la vie et trouvez du temps pour vous",
+      "listItem3": "Atteignez votre meilleure forme en vous entraînant 4 heures par semaine",
+      "listItem4": "Évitez les erreurs passées et valorisez vraiment votre femme",
+      "buttonText": "En savoir plus"
+    },
+    "about": {
+      "title": "Qui est Alpha Eliit ?",
+      "description": "Nous encourageons les hommes à vivre pleinement leur potentiel dans la paix et la joie. Pour créer une harmonie supérieure",
+      "programTitle": "Programme de mentorat Alpha Eliit",
+      "programSubtitle": "6 mois et 7 éléments clés",
+      "programDescription": "Notre programme est conçu pour les hommes qui veulent se développer, investir en eux-mêmes et atteindre un niveau de vie supérieur"
+    },
+    "faq": {
+      "title": "Questions fréquemment posées"
+    },
+    "contactUs": {
+      "title": "Contactez-nous",
+      "name": "Nom",
+      "namePlaceholder": "Entrez votre nom",
+      "telephone": "Téléphone",
+      "telephonePlaceholder": "Entrez votre numéro de téléphone",
+      "email": "E-mail",
+      "emailPlaceholder": "Entrez votre e-mail",
+      "message": "Message",
+      "messagePlaceholder": "Entrez votre message",
+      "submit": "Envoyer"
+    },
+    "footer": {
+      "copyRightYear": "Droits d'auteur @{currentYear} Alpha Elite",
+      "termsAndConditions": "Conditions Générales d'Utilisation",
+      "privacyPolicy": "Politique de confidentialité"
+    },
+    "privacyPolicy": {
+      "privacy_policy": "POLITIQUE DE CONFIDENTIALITÉ",
+      "section_1": "1. Le responsable du traitement des données personnelles est enregistré sous le numéro d'immatriculation 14812204, situé à Mõisamaa tee 3, Aruküla alevik, Raasiku vald, Harjumaa, 75201, Harjumaa, Estonie, avec l'adresse e-mail ",
+      "section_2": "2. Le prestataire de services peut autoriser d'autres personnes ou institutions (ci-après dénommées processeur autorisé) à traiter les données personnelles de l'Utilisateur, à condition qu'un contrat ait été conclu avec le processeur autorisé, selon lequel le processeur autorisé s'engage à garder confidentielles les données personnelles traitées et à garantir le respect des obligations étendues au processeur autorisé par la loi sur la protection des données. Le prestataire de services met à la disposition de l'Utilisateur, sur demande de l'Utilisateur, une liste pertinente de tous les noms, adresses et autres coordonnées des processeurs autorisés.",
+      "section_3_1": "3. L'Utilisateur reconnaît que",
+      "section_3_2": "lors de la création d'un compte dans l'environnement, il donne au Prestataire de services son consentement pour traiter les données personnelles suivantes :",
+      "section_3_list_1": "Nom et prénom de l'Utilisateur;",
+      "section_3_list_2": "Données utilisées par l'Utilisateur pour s'authentifier depuis son compte sur le réseau social;",
+      "section_3_list_3": "Coordonnées de l'Utilisateur;",
+      "section_3_list_4": "Adresse postale et électronique de l'Utilisateur;",
+      "section_3_list_5": "Informations de l'Utilisateur sur l'activité physique;",
+      "section_3_list_6": "Autre contenu divulgué par l'Utilisateur via le Service;",
+      "section_3_list_7": "Nom d'utilisateur et mot de passe de l'Utilisateur;",
+      "section_3_list_8": "Adresse IP de l'Utilisateur;",
+      "section_3_list_9": "Historique de l'utilisation du Service par l'Utilisateur.",
+      "section_4": "4. Le prestataire de services traite les données personnelles de l'Utilisateur aux fins suivantes :",
+      "section_4_list_1": "pour remplir ses obligations en créant un programme d'entraînement personnalisé qui rendrait l'entraînement sain, sûr et bénéfique pour l'Utilisateur;",
+      "section_4_list_2": "pour d'autres actions visant à utiliser le Service et à améliorer les préférences de l'Utilisateur;",
+      "section_4_list_3": "pour fournir des informations à l'Utilisateur;",
+      "section_4_list_4": "pour le traitement des bases de données clients de l'entreprise et pour le développement et le marketing du Service du Prestataire de services;",
+      "section_4_list_5": "pour remplir des obligations légales;",
+      "section_4_list_6": "pour le développement du Service et pour résoudre les problèmes rencontrés dans le Service, ainsi que pour améliorer le contenu du Service.",
+      "section_5": "5. Le prestataire de services traite les données personnelles de l'Utilisateur uniquement avec le consentement de l'Utilisateur.",
+      "section_6": "6. L'Utilisateur a tous les droits découlant de la loi sur la protection des données concernant les données personnelles le concernant.",
+      "section_7": "7. Les données personnelles collectées pour l'identification et le contact de l'Utilisateur peuvent être consultées, modifiées et complétées sur le site Web dans la section 'Mon compte'.",
+      "section_8": "8. L'Utilisateur a le droit de recevoir du Prestataire de services des informations sur les données personnelles le concernant et de demander à tout moment au Prestataire de services la rectification des données personnelles incorrectes et la cessation du traitement des données personnelles, ainsi que de s'opposer au transfert des données à des tiers.",
+      "section_9": "9. L'Utilisateur a le droit de transférer des données, ce qui signifie qu'il a le droit de demander et de recevoir du responsable du traitement toutes les données personnelles le concernant que la personne a fournies au responsable du traitement. Cependant, cela ne doit pas affecter les droits et libertés d'autres personnes concernées.",
+      "section_10": "10. L'Utilisateur a le droit, en vertu de la loi, de demander réparation du préjudice causé par le traitement illégal des données personnelles.",
+      "section_11": "11. En outre, l'Utilisateur a le droit de contacter à la fois le Prestataire de services et l'Inspecteur de la protection des données pour toute question concernant ses données personnelles.",
+      "section_12_1": "12. Afin de garantir une sécurité élevée dans le traitement des données personnelles, l'Utilisateur s'engage à soumettre toutes les demandes concernant ses données personnelles électroniquement signées à l'adresse e-mail",
+      "section_12_2": ".",
+      "section_13": "13. Le Prestataire de services conserve les données personnelles saisies par l'Utilisateur dans un centre de données situé dans l'Union européenne.",
+      "section_14": "14. Le Prestataire de services garde les données de l'Utilisateur privées et ne les vend, ne les partage ni ne les transfère à aucun tiers, sauf au Processeur autorisé ou tel que prévu par la loi.",
+      "section_15": "15. Le Prestataire de services peut utiliser les données non personnalisées des Utilisateurs à des fins de marketing, et l'Utilisateur donne son consentement à cette fin, y compris en donnant son consentement pour recevoir des messages marketing contenant du contenu marketing du Prestataire de services.",
+      "section_16": "16. Alpha Company OÜ surveille les habitudes d'utilisation de l'Utilisateur en utilisant des cookies et peut, en fonction de ces habitudes, faire des offres ou des publicités personnalisées.",
+      "section_17": "17. Alpha Company OÜ peut utiliser des services tiers tels que Google ou Facebook pour suivre les habitudes d'utilisation de l'Utilisateur.",
+      "section_18": "18. Le choix d'une méthode d'inscription implique de fournir une adresse e-mail et, si possible, d'associer un prénom et un nom de famille au compte.",
+      "section_19": "19. Les données personnelles ne seront pas traitées plus longtemps que nécessaire et ne seront conservées que le temps nécessaire pour identifier la personne concernée, c'est-à-dire jusqu'à ce qu'il existe un contrat valide entre l'Utilisateur et le Prestataire de services ou jusqu'à ce que la période post-contractuelle permette à l'Utilisateur de réactiver son compte.",
+      "section_20": "20. Si désiré, l'Utilisateur peut se retirer du système d'affichage de publicité ciblée en visitant la page de l'Initiative de publicité en réseau à cette fin.",
+      "section_21": "21. Le Prestataire de services utilise des cookies pour stocker les informations de session de l'Utilisateur.",
+      "section_22": "22. Il est possible de désactiver le stockage des cookies en apportant les modifications nécessaires dans les paramètres du navigateur Web. Cependant, les cookies sont essentiels pour le fonctionnement du système, et il n'est donc pas possible d'utiliser les Services sans cookies.",
+      "section_23": "23. Le Prestataire de services utilise des services d'hébergement Web. Comme le Service est fourni aux Utilisateurs dans l'Union européenne, les systèmes utilisés par le Prestataire de services sont hébergés dans l'UE pour une meilleure expérience utilisateur.",
+      "section_24": "24. Les termes sont conformes au Règlement général sur la protection des données de l'UE."
+    }
+  }
+}

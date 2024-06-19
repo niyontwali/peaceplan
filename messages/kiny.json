@@ -1,0 +1,90 @@
+{
+  "Index": {
+    "navbar": {
+      "home": "Avaleht",
+      "about": "Meist",
+      "faqs": "KKK",
+      "contactUs": "Võta meiega ühendust"
+    },
+    "hero": {
+      "imageCaption": "Kangelase pildi pealkiri",
+      "title": "Ole enesekindel ja ela rahus ja rõõmus",
+      "listItem1": "Saa oma elu tasakaalu - tervis, töö, pere ja sõbrad",
+      "listItem2": "Tunne elust ja leia aega iseendale",
+      "listItem3": "Saavuta oma elu parim vorm treenides 4 tundi nädalas",
+      "listItem4": "Ära korda vanu eksimusi ja tõeliselt väärtusta oma naist",
+      "buttonText": "Uuri lisa"
+    },
+    "about": {
+      "title": "Kes on Alpha Eliit?",
+      "description": "Me võimustame mehi elama oma potentsiaali kohaselt rahus ja rõõmus. Et sünniks kõrgem harmoonia",
+      "programTitle": "Alpha Eliit mentorlus programm",
+      "programSubtitle": "6 kuud ja 7 põhi elementi",
+      "programDescription": "Meie programm on mõeldud meestele, kes soovivad areneda, iseendasse investeerida ja kõrgema elustandardini jõuda"
+    },
+    "faq": {
+      "title": "Korduma kippuvad küsimused"
+    },
+    "contactUs": {
+      "title": "Võta meiega ühendust",
+      "name": "Nimi",
+      "namePlaceholder": "Sisestage oma nimi",
+      "telephone": "Telefon",
+      "telephonePlaceholder": "Sisestage oma telefon",
+      "email": "Email",
+      "emailPlaceholder": "Sisestage oma email",
+      "message": "Sõnum",
+      "messagePlaceholder": "Sisestage oma sõnum",
+      "submit": "Saada"
+    },
+    "footer": {
+      "copyRightYear": "Autoriõigus @{currentYear} Alpha Elii",
+      "termsAndConditions": "Müügilepingu Tingimused",
+      "privacyPolicy": "Privaatsuspoliitika"
+    },
+    "privacyPolicy": {
+      "privacy_policy": "PRIVAATSUSTINGIMUSED",
+      "section_1": "1. Isikuandmete vastutav töötleja on registrikoodiga 14812204, asukohaga Mõisamaa tee 3, Aruküla alevik, Raasiku vald, Harjumaa, 75201, Harjumaa, Eesti, e-posti aadressiga ",
+      "section_2": "2. Teenuse osutaja võib volitada Kasutaja isikuandmeid töötlema ka teisi isikuid või asutusi (edaspidi Volitatud töötleja) tingimusel, et ka Volitatud töötlejaga on sõlmitud leping, mille kohaselt on Volitatud töötleja kohustatud töödeldavaid isikuandmeid konfidentsiaalsuses hoidma ning tagama isikuandmete kaitse seadusest tulenevate Volitatud töötlejale laiendatud kohustuste täitmine. Asjakohase nimekirja kõigi Volitatud töötlejate nimede, aadresside ja muude kontaktandmetega teeb Teenuse osutaja Kasutajale kättesaadavaks Kasutaja taotluse alusel.",
+      "section_3_1": "3. Kasutaja teadvustab, et",
+      "section_3_2": "keskkonnas konto loomisel, annab ta Teenuse osutajale nõusoleku oma alljärgnevate isikuandmete töötlemiseks:",
+      "section_3_list_1": "Kasutaja ees- ja perekonnanimi;",
+      "section_3_list_2": "Kasutaja autentimisel tema poolt kasutatavad andmed tema autentimisel kasutatavast kontost sotsiaalvõrgustikus;",
+      "section_3_list_3": "Kasutaja kontaktandmed;",
+      "section_3_list_4": "Kasutaja posti ja e-posti aadress;",
+      "section_3_list_5": "Kasutaja info füüsilise aktiivsuse kohta;",
+      "section_3_list_6": "muu sisu, mida Kasutaja Teenuse kaudu avaldab;",
+      "section_3_list_7": "Kasutaja kasutajatunnus ja salasõna;",
+      "section_3_list_8": "Kasutaja IP-aadress;",
+      "section_3_list_9": "Kasutaja Teenuse kasutamise ajalugu.",
+      "section_4": "4. Teenuse osutaja töötleb Kasutaja isikuandmeid järgmistel eesmärkidel:",
+      "section_4_list_1": "kohustuste täitmiseks isikustatud treeningprogrammi loomiseks, mille järgi oleks treenimine Kasutajale tervislik, ohutu ning kasulik;",
+      "section_4_list_2": "muudeks toiminguteks, mille eesmärk on Teenuse kasutamine ning Kasutaja eelistustele paremaks muutmine;",
+      "section_4_list_3": "teabe edastamiseks Kasutajale;",
+      "section_4_list_4": "äriühingu kliendiandmebaaside töötlemiseks ja Teenuse osutaja Teenuse arenduseks ja turundustegevuseks;",
+      "section_4_list_5": "õiguslike kohustuste täitmiseks;",
+      "section_4_list_6": "Teenuse arendamiseks ja Teenuses ette tulevate probleemidega tegelemiseks ning Teenuse sisu paremaks muutmiseks.",
+      "section_5": "5. Teenuse osutaja töötleb Kasutaja isikuandmeid üksnes Kasutaja nõusolekul.",
+      "section_6": "6. Kasutajal on seoses ennast puudutavate isikuandmetega kõik isikuandmete kaitse seadusest tulenevad õigused.",
+      "section_7": "7. Kasutaja tuvastamiseks ja temaga kontakteerumiseks kogutud isikuandmeid on võimalik näha, muuta ja täiendada veebilehel “Minu konto“ jaotuses.",
+      "section_8": "8. Kasutajal on õigus Teenuse osutajalt saada informatsiooni tema kohta käivate isikuandmete kohta ning nõuda igal ajal Teenuse osutajalt ebaõigete isikuandmete parandamist ning isikuandmete töötlemise lõpetamist ning keelata andmete üleandmine kolmandatele isikutele.",
+      "section_9": "9. Kasutajal on õigus andmeid üle kanda, mis tähendab, et tal on õigus küsida ja saada andmetöötlejalt kõiki teda puudutavaid isikuandmeid, mida isik on andmetöötlejale edastanud. Samas ei tohi see kahjustada teiste andmesubjektide õigusi ja vabadusi.",
+      "section_10": "10. Kasutajal on seadusest tulenev õigus nõuda õigusvastase isikuandmete töötlemisega tekitatud kahju hüvitamist.",
+      "section_11": "11. Kasutajal on lisaks õigus pöörduda kõikides enda isikuandmeid puudutavates küsimustes nii Teenuse osutaja kui ka Andmekaitse Inspektsiooni poole.",
+      "section_12_1": "12. Tagamaks isikuandmete töötlemisel kõrge turvalisus, kohustub Kasutaja esitama kõik enda isikuandmeid puudutavad taotlused elektrooniliselt allkirjastatult e-posti aadressi",
+      "section_12_2": "kaudu.",
+      "section_13": "13. Teenuse osutaja hoiab Kasutaja poolt sisestatud isikuandmeid Euroopa Liidus asuvas andmekeskuses.",
+      "section_14": "14. Teenuse osutaja hoiab Kasutajate andmeid privaatselt ning ei müü, jaga, ega anna üle ühelgi muul juhul kolmandatele osapooltele, välja arvatud volitatud Töötlejale või seaduses ettenähtud juhtudel.",
+      "section_15": "15. Teenuse osutaja võib kasutada Kasutajate mittepersonaliseeritavaid andmeid turundustegevuses ja Kasutaja annab selleks nõusoleku, muuhulgas annab Kasutaja oma nõusoleku saada Teenuse osutajalt turundusliku sisuga sõnumeid.",
+      "section_16": "16. Alpha Company OÜ jälgib Kasutaja kasutusharjumusi kasutades küpsiseid ning võib teha vastavalt harjumustele personaalseid pakkumisi või reklaame.",
+      "section_17": "17. Alpha Company OÜ võib Kasutaja kasutusharjumuste jälgimiseks kasutada kolmandate osapoolte Teenuseid nagu näiteks Google või Facebook.",
+      "section_18": "18. Registreerimismeetodi valik toob kaasa e-maili aadressi ning võimalusel ka ees- ja perekonnanime sidumise kontoga.",
+      "section_19": "19. Isikuandmeid ei töödelda kauem kui vajalik ja neid säilitatakse üksnes seni, kuni on vajalik andmesubjekti tuvastada ehk kuni Kasutaja ja Teenuse osutaja vahel on kehtiv leping või kuni kestab lepingujärgne periood, mis võimaldab Kasutajal oma konto taasaktiveerida.",
+      "section_20": "20. Soovi korral saab Kasutaja ennast eemaldada suunatud reklaamide näitamise süsteemist, külastades selleks Network Advertising Initiative lehekülge.",
+      "section_21": "21. Kasutajasessiooni talletamiseks kasutab Teenuse osutaja küpsiseid.",
+      "section_22": "22. Küpsiste talletamist on võimalik keelata, tehes selleks vastavad muudatused veebilehitseja seadetes. Samal ajal on küpsised süsteemi töö tagamiseks vältimatud ning seega ei ole võimalik Teenuseid kasutada ilma küpsisteta.",
+      "section_23": "23. Teenuse osutaja kasutab Veebimajutus Teenuseid. Kuivõrd Teenust osutatakse Kasutajatele Euroopa Liidus, on ka Teenuseosutaja poolt kasutatud süsteemid parima kasutuskogemuse huvides ELi piires majutatud.",
+      "section_24": "24. Tingimused on kooskõlas EL isikuandmete kaitse määrusega."
+    }
+  }
+}
