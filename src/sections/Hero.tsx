@@ -48,6 +48,15 @@ const Hero = () => {
     gsap.fromTo(textRef.current, { opacity: 0, y: 20 }, { opacity: 1, y: 0, duration: 0.5, ease: 'power2.inOut' });
   };
 
+  const handleClick = () => {
+    if (typeof document !== 'undefined') {
+      const whoWeAreElement = document.getElementById('whoWeAre');
+      if (whoWeAreElement) {
+        whoWeAreElement.scrollIntoView({ behavior: 'smooth' });
+      }
+    }
+  };
+
   return (
     <div className='relative h-[38rem] overflow-hidden rounded-[40px] bg-primary z-10'>
       <Image
@@ -77,7 +86,9 @@ const Hero = () => {
             ></div>
           ))}
         </div>
-        <Button className='mt-4'>{t('hero.buttonText')}</Button>
+        <Button onClick={handleClick} className='mt-4'>
+          {t('hero.buttonText')}
+        </Button>
       </div>
     </div>
   );

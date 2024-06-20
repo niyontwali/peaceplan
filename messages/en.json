@@ -18,11 +18,12 @@
       "buttonText": "Learn more"
     },
     "about": {
-      "title": "Who is Alpha Elite?",
-      "description": "We empower men to live up to their potential in peace and joy. To create higher harmony",
-      "programTitle": "Alpha Elite Mentorship Program",
-      "programSubtitle": "6 months and 7 core elements",
-      "programDescription": "Our program is designed for men who want to develop, invest in themselves, and reach a higher standard of living"
+      "title": "What is",
+      "description": "The PEACE Plan Rwanda",
+      "what": "The PEACE Plan Rwanda",
+      "whatDescription": "Imagine a world where the local church was the engine for transformation in every community. Imagine if ordinary believers were empowered to discover and live out the unique ways God created them to make an impact on the world. Imagine churches of all sizes and denominations coming together to support each other, exchange learnings, and tackle the biggest challenges facing the globe. Through The PEACE Plan, this dream is becoming a reality, and there's a role for your church to play.",
+      "model": "Our Model",
+      "modelDescription": "Initiated and sustained by the local church, The PEACE Plan empowers ordinary people to create sustainable transformation in communities around the world, by doing the things Jesus modeled during his ministry on earth"
     },
     "faq": {
       "title": "Frequently Asked Questions"
