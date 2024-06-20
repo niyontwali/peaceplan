@@ -85,17 +85,14 @@ const OutreachAndProjects = () => {
               >
                 <div className='mb-4 flex items-start justify-between'>
                   <div className='flex items-center gap-4'>
-                    
                     <div className='text-5xl font-bold'>
                       <CountUp start={1} end={Math.round(coreValue.number / 1000)} duration={2} suffix='K' />+
-                <h3 className='text-2xl font-bold'>{coreValue.title}</h3>
-
+                      <h3 className='text-2xl font-bold'>{coreValue.title}</h3>
                     </div>
                   </div>
                   {coreValue.icon}
-                 
                 </div>
-                
+
                 <p className='text-lg'>{coreValue.content}</p>
               </div>
             ))}

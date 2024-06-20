@@ -1,6 +1,5 @@
-import React from 'react'
+import React from 'react';
 import { CheckCircleIcon, EyeIcon, HeartIcon, FlagIcon } from 'lucide-react';
-
 
 interface DataInterface {
   title: string;
@@ -20,7 +19,7 @@ const data: DataInterface[] = [
     colspan: 2,
     backgroundColor: '#b8cedc',
     textColor: '#184363',
-    icon: <EyeIcon size={24} />,  // Vision icon
+    icon: <EyeIcon size={24} />, // Vision icon
   },
   {
     title: 'Our Values',
@@ -29,16 +28,17 @@ const data: DataInterface[] = [
     colspan: 1,
     backgroundColor: '#f9a474',
     textColor: '#582615',
-    icon: <HeartIcon size={24} />,  // Values icon
+    icon: <HeartIcon size={24} />, // Values icon
   },
   {
     title: 'Our Mission',
-    content: 'To contribute in building a purpose-driven nation by building the capacity of the church to Promote reconciliation, equip servant leaders, Assist the poor, Care for the sick, and Educate the next generation.',
+    content:
+      'To contribute in building a purpose-driven nation by building the capacity of the church to Promote reconciliation, equip servant leaders, Assist the poor, Care for the sick, and Educate the next generation.',
     rowspan: 1,
     colspan: 2,
     backgroundColor: '#f682a5',
     textColor: '#52225e',
-    icon: <FlagIcon size={24} />,  // Mission icon
+    icon: <FlagIcon size={24} />, // Mission icon
   },
 ];
 
@@ -95,6 +95,6 @@ const VisionMissionValues = () => {
       </div>
     </div>
   );
-}
+};
 
 export default VisionMissionValues;
