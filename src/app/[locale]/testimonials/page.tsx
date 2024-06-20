@@ -1,7 +1,9 @@
 'use client';
+
 import React, { useState, useEffect, useCallback } from 'react';
 import Link from 'next/link';
 import { stories } from '@/constants';
+import Image from 'next/image';
 
 const Testimonials = () => {
   const [backgroundColor, setBackgroundColor] = useState('bg-background-200');
@@ -45,7 +47,7 @@ const Testimonials = () => {
         <div className='grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4'>
           {stories.map(story => (
             <div key={story.id} className='bg-neutral-900 flex h-full flex-col rounded-lg p-6 shadow'>
-              <img src={story.thumbnail} alt={story.title} className='mb-4 w-full h-40 object-cover rounded' />
+              <Image src={story.thumbnail} alt={story.title} className='mb-4 w-full h-40 object-cover rounded' />
               <div className='flex flex-grow flex-col items-center'>
                 <h3 className='mb-2 text-center font-heading text-lg font-bold'>{story.title}</h3>
                 <p className='text-gray-600 mb-4 text-center'>{story.description}</p>
