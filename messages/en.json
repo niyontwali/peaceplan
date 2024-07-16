@@ -40,6 +40,15 @@
       "messagePlaceholder": "Enter your message",
       "submit": "Submit"
     },
+    "staff": {
+      "position1": "Executive Director",
+      "position2": "Director of Admin & Finance",
+      "position3": "PD/PEACE Coordinator",
+      "position4": "PEACE Programs Coordinator",
+      "position5": "Accounts & Finance Manage",
+      "position6": "Partnerships Manager",
+      "position7": "Driver"
+    },
     "footer": {
       "copyRightYear": "Copyright @{currentYear} The PEACE Plan Rwanda",
       "careers": "Careers",

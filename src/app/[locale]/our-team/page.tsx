@@ -1,10 +1,14 @@
 'use client';
 import React, { useEffect, useState, useCallback } from 'react';
+import { useTranslations } from 'next-intl';
+
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import { teamMembers } from '@/constants';
 import Image from 'next/image';
 
 const OurTeam = () => {
+  const t = useTranslations('Index');
+
   const [backgroundColor, setBackgroundColor] = useState('bg-background-300');
 
   const handleScroll = useCallback(() => {
@@ -43,7 +47,7 @@ const OurTeam = () => {
             height={130}
           />
           <h2 className='mt-4 text-lg font-bold'>{member.name}</h2>
-          <h3 className='mt-2 text-sm '>{member.positionKey}</h3>
+          <h3 className='mt-2 text-sm '>{t(member.positionKey)}</h3>
         </div>
       ));
   };
