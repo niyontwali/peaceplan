@@ -31,7 +31,7 @@ export default function ContactUsPage() {
             </div>
             <Button
               type='submit'
-              className='w-fit mx-auto bg-green text-white px-6 py-3 rounded-md hover:bg-green/90 transition-colors duration-300'
+              className='w-fit mx-auto bg-secondary text-white px-6 py-3 rounded-md hover:bg-green/90 transition-colors duration-300'
             >
               {t('contactUs.submit')}
             </Button>

@@ -38,7 +38,7 @@ const OurTeam = () => {
           <Image
             src={member.image}
             alt={member.name}
-            className='w-[150px] h-[150px] bg-primary rounded-full object-cover'
+            className='w-[150px] h-[150px] bg-tertiary rounded-full object-cover'
             width={130}
             height={130}
           />
@@ -52,10 +52,10 @@ const OurTeam = () => {
     <section className={`${backgroundColor}`}>
       <div className='mx-auto flex pt-[10vh] flex-col justify-center px-4 md:w-[50rem] md:px-0'>
         <p className='text-center text-sm font-bold capitalize'>Meet</p>
-        <h1 className='text-center font-heading font-bold text-3xl md:text-6xl'>THE PEACE PLAN TEAM</h1>
+        <h1 className='text-center font-heading font-bold text-3xl md:text-5xl'>THE PEACE PLAN TEAM</h1>
         <p className='text-center text-sm font-bold capitalize'>Rwanda</p>
       </div>
-      <Tabs defaultValue='staff' className='py-10 px-4 md:px-0'>
+      <Tabs defaultValue='board' className='py-10 px-4 md:px-0'>
         <TabsList className='grid w-full grid-cols-3 md:w-[500px] mx-auto mb-24'>
           <TabsTrigger value='board'>Governing Board</TabsTrigger>
           <TabsTrigger value='staff'>Staff</TabsTrigger>

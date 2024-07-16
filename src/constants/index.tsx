@@ -4,7 +4,9 @@ import muligande from '../assets/team/muligande.png';
 import emma from '../assets/team/emma.jpg';
 import daniel from '../assets/team/daniel.png';
 import olivier from '../assets/team/olivier.png';
-import imageThumb from '../assets/common/governingboard.jpg';
+import story1 from '../assets/stories/story1.jpg';
+import story2 from '../assets/stories/story2.jpg';
+import story3 from '../assets/stories/story3.jpg';
 
 const specialPath = ['/dashboard', '/login', '/forgot-password', '/reset-password'];
 
@@ -130,17 +132,24 @@ const teamMembers = [
 const stories = [
   {
     id: 1,
-    title: 'Story One',
-    description: 'This is the first story.',
-    link: 'story-one',
-    thumbnail: imageThumb,
+    title: 'Purpose-driven Church: Becoming the Bride of Christ',
+    description:
+      'I got to know about the PEACE Plan and the Purpose Driven program when I was invited for a training. As a pastor who got into ministry by chance without any prior training, having been involved with PEACE Plan was ....',
+    thumbnail: story1,
   },
   {
     id: 2,
-    title: 'Story Two',
-    description: 'This is the second story.',
-    link: 'story-two',
-    thumbnail: imageThumb,
+    title: 'Loving the unlovable',
+    description:
+      'Healing Center is one of the purpose-driven churches in Rwanda. I encountered PEACE Plan during a training prepared for mission leaders. Before the training I had a desire to serve God but had limited knowledge on how to do so. PEACE Plan came in and taught me how to mobilize church members for the work of the Lord. I’ve become a good disciple and servant of God since I was trained.',
+    thumbnail: story2,
+  },
+  {
+    id: 3,
+    title: 'From a mud structure to a Rwf 157 Million building',
+    description:
+      'I encountered the PEACE Plan after reading the book by Rick Warren titled, Purpose Driven Life. I was invited for a training for pastors about how we could build purpose driven churches. Soon after, I decided to put the teaching into practice at my church.',
+    thumbnail: story3,
   },
 ];
 

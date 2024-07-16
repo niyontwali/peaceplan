@@ -20,7 +20,7 @@ const CallToAction = () => {
   };
 
   return (
-    <div className='bg-white py-8 relative'>
+    <div className='bg-white py-32 relative'>
       <div className='max-w-3xl mx-auto text-center '>
         <h2 className='text-4xl font-heading font-bold text-primary sm:text-5xl sm:tracking-tight'>
           Subscribe to Our Newsletter
